@@ -1,0 +1,247 @@
+@media screen and (max-width: 1350px){
+	.about-text p {
+		text-align: justify;
+		width: 90%;
+	}
+}
+@media screen and (max-width: 1190px){
+	.logo h1{
+		display: none;
+	}
+	.about-me{
+		width: 75%;
+	}
+	.about-text p {
+		font-size: 18px;
+	}
+	.service-item h4{
+		font-size: 18px;
+	}
+	.a-item h4{
+		font-size: 18px;
+	}
+	.a-item p{
+		font-size: 17px;
+	}
+	.youtube i{
+		top:35%;
+		left:35%;
+		font-size: 55px;
+	}
+
+}
+@media screen and (max-width: 950px){
+	.menu a{
+		font-size: 18px;
+	}
+	#modal-cont{
+		width: 50%;
+		margin:10% 22%;
+	}
+	#modal-cont p{
+		font-size: 17px;
+	}
+	.about-me{
+		width: 85%;
+	}
+	.about-me p {
+		text-align: justify;
+		font-size: 17px;
+	}
+	h3{
+		font-size: 22px;
+	}
+	.logo h1{
+		display: none;
+	}
+	.mobile{
+		display: none;
+	}
+	.service{
+		width: 80%;
+	}
+	.service-item{
+		width: 45%;
+	}
+	.service-item p{
+		font-size: 17px;
+	}
+	.advantages{
+		width: 90%;
+		display: block;
+	}
+	.a-item{
+		width: 60%;	
+		margin: 0 auto;
+		margin-bottom: 15px;	
+	}
+	.video{
+		width: 85%;
+	}
+}
+@media screen and (max-width: 750px){
+	.menu a span{
+		padding: 0 15px;
+	}
+	nav{
+		padding-bottom: 0px;
+	}
+	.logo{
+		display: none;
+	}
+	.about-me{
+		width: 100%;
+	}
+	.about-img{
+		width: 35%;
+	}
+	.about-text{
+		width: 65%;
+	}
+	.bbnone{
+		font-size: 20px;
+	}
+	.service{
+		width: 90%;
+	}
+	.video{
+		width: 95%;
+	}
+	.f-one{
+		font-size: 17px;
+		padding: 20px;
+	}
+	.f-one i{
+		font-size: 20px;
+	}
+	.f-two p{
+		font-size: 16px;
+	}
+}
+@media screen and (max-width: 600px){
+	.menu a span{
+		padding: 0 10px;
+	}
+	.menu a{
+		font-size: 16px;
+	}
+	.about-img{
+		display: none;
+	}
+	.about-me{
+		width: 85%;
+		display: block;
+	}
+	.about-text{
+		width: 100%;
+		text-align: left;
+		font-size: 17px;
+	}
+	#modal-cont{
+		width: 70%;
+		margin:10% 12%;
+	}
+	#modal-cont p{
+		font-size: 17px;
+	}
+	.service-item{
+		width: 75%;
+	}
+	.service-item p{
+		font-size: 16px;
+	}
+	.a-item{
+		width: 75%;		
+	}
+	.a-item p{
+		font-size: 16px;
+	}
+	.youtube{
+		width: 75%;
+	}
+}
+@media screen and (max-width: 450px){
+	h3{
+		font-size: 20px;
+	}
+	.about-me{
+		width: 95%;
+		display: block;
+	}
+	.about-text p{
+		font-size: 17px;
+		text-align: left;	
+	}
+	.bbnone{
+		font-size: 18px;
+	}
+	.youtube{
+		width: 90%;
+	}
+	.menu a:first-child{
+		display: none;
+	}
+	nav{
+		padding: 0px;
+	}
+	.menu{
+		height: 38px;
+	}
+	
+}
+@media screen and (max-width: 400px){
+	h3{
+		font-size: 18px;
+	}
+	.bbnone{
+		font-size: 17px;
+	}
+	.youtube i{
+		top:32%;
+		left:32%;
+		font-size: 55px;
+	}
+	.service-item p{
+		font-size: 15px;
+	}
+	.a-item p{
+		font-size: 15px;
+	}
+}
+@media screen and (max-width: 350px){
+	.menu a span{
+		padding: 0 5px;
+	}
+	.menu a{
+		font-size: 16px;
+	}
+	#modal-cont p{
+		font-size: 15px;
+	}
+	.f-one i{
+		font-size: 18px;
+	}
+	.f-two p{
+		font-size: 15px;
+	}
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
